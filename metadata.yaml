@@ -1,0 +1,31 @@
+_repo: Par-dessus-le-mur_74711
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Boutet, Frédéric
+    alias: Boutet, Frederic
+    birthdate: 1874
+    deathdate: 1941
+    gutenberg_agent_id: '56811'
+    url: http://www.gutenberg.org/2009/agents/56811
+    wikipedia: https://fr.wikipedia.org/wiki/Fr%C3%A9d%C3%A9ric_Boutet
+description: ''
+gutenberg_issued: '2024-11-09'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '74711'
+language: fr
+pgterms:marc904: https://babel.hathitrust.org/cgi/pt?id=njp.32101072914045
+pgterms:marc905: 20230616225050boutet
+pgterms:marc906: '1920'
+pgterms:marc907: FR
+production_note: Laurent Vogel and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This book was produced from images made available by the HathiTrust Digital Library.)
+publication_note: '  $aParis :$bErnest Flammarion, $c1920.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Par-dessus le mur
+url: http://www.gutenberg.org/ebooks/74711
